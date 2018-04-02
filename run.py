@@ -1,2 +1,2 @@
-hello wosmdaFNNNNN
-hellodsf world
+class Foo():
+    pass
